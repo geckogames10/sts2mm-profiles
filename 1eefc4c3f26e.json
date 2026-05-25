@@ -1,0 +1,187 @@
+{
+  "name": "With Friends",
+  "game_version": null,
+  "created_by": "geckogames10",
+  "mods": [
+    {
+      "name": "BaseLib",
+      "version": "v3.1.7",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "35ee9e26938c239bdb80bb8b15329ead2c66c1eae404c660f1f97bc5e1415a6c",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/geckogames10/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.7_e85abb5b.zip",
+      "bundle_sha256": "e85abb5b40d903eae00328571e803d7562dc535429183fabd4198c92d4348b77"
+    },
+    {
+      "name": "Honglu",
+      "version": "0.1.9.beta",
+      "source": null,
+      "hash": "f57fb698f51c2af70e5b4a8bb54244943f0d70785d5d02706f31553b608c4606",
+      "files": [
+        "Honglu\\Honglu.dll",
+        "Honglu\\Honglu.json",
+        "Honglu\\Honglu.pck"
+      ],
+      "folder_name": "Honglu",
+      "mod_id": "Honglu",
+      "enabled": true,
+      "bundle_url": "https://github.com/geckogames10/sts2mm-profiles/releases/download/bundles/Honglu_v0.1.9.beta_f3618ab9.zip",
+      "bundle_sha256": "f3618ab9e578432e4d57899815555fc83d797ec727a90ee7cdb19cc96b4bfd3d"
+    },
+    {
+      "name": "KaLi mod",
+      "version": "0.9.8.3",
+      "source": null,
+      "hash": "e829f6647e796d2246d2c0baa92416d47a31d9c5b47aff34f13385fb83e11035",
+      "files": [
+        "KaLi_mod\\KaLi.json",
+        "KaLi_mod\\KaLi_mod.dll",
+        "KaLi_mod\\KaLi_mod.pck"
+      ],
+      "folder_name": "KaLi_mod",
+      "mod_id": "KaLi_mod",
+      "enabled": true,
+      "bundle_url": "https://github.com/geckogames10/sts2mm-profiles/releases/download/bundles/KaLi_mod_v0.9.8.3_1a3dac63.zip",
+      "bundle_sha256": "1a3dac63a678dc65fce5763e59e9e638c07ae116d79756b41c3a658ccb3bc05c"
+    },
+    {
+      "name": "Limbus Ancient",
+      "version": "v0.1.0",
+      "source": null,
+      "hash": "a29ccb0db553a528cba5d5fceb067989e315f13b644bab57257a423946f98c4e",
+      "files": [
+        "LimbusAncient\\LimbusAncient.dll",
+        "LimbusAncient\\LimbusAncient.json",
+        "LimbusAncient\\LimbusAncient.pck"
+      ],
+      "folder_name": "LimbusAncient",
+      "mod_id": "LimbusAncient",
+      "enabled": true,
+      "bundle_url": "https://github.com/geckogames10/sts2mm-profiles/releases/download/bundles/Limbus_Ancient_v0.1.0_902fdfcb.zip",
+      "bundle_sha256": "902fdfcb3600013b6a7de0c80cb29e0ac1da4aaa0653420b090ed289ddfd57c8"
+    },
+    {
+      "name": "Limbus Core",
+      "version": "v1.1.2",
+      "source": null,
+      "hash": "10af028f5792ab889151a9975317ade0e2733480c19170e6630efd6091f67cbf",
+      "files": [
+        "LimbusCore\\LimbusCore.dll",
+        "LimbusCore\\LimbusCore.json",
+        "LimbusCore\\LimbusCore.pck"
+      ],
+      "folder_name": "LimbusCore",
+      "mod_id": "LimbusCore",
+      "enabled": true,
+      "bundle_url": "https://github.com/geckogames10/sts2mm-profiles/releases/download/bundles/Limbus_Core_v1.1.2_6b76ed6c.zip",
+      "bundle_sha256": "6b76ed6c8e931adcbafd54f40a12cdca57dd526592a32990699e16e11b4177d7"
+    },
+    {
+      "name": "Ryoshu",
+      "version": "0.3.3.beta",
+      "source": null,
+      "hash": "997bc7474d25c0dea577960c37bb9f46e24fbcb2bf79ff203ce4d54122e6c5c6",
+      "files": [
+        "Ryoshu\\Ryoshu.dll",
+        "Ryoshu\\Ryoshu.json",
+        "Ryoshu\\Ryoshu.pck"
+      ],
+      "folder_name": "Ryoshu",
+      "mod_id": "Ryoshu",
+      "enabled": true,
+      "bundle_url": "https://github.com/geckogames10/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.3.beta_7351a254.zip",
+      "bundle_sha256": "7351a2541c2c3be46cc4ece6caefaf581f8f4e66471a2290bcde128b393205e1"
+    },
+    {
+      "name": "The First Blade Master Soldoros",
+      "version": "v1.2.4",
+      "source": null,
+      "hash": "4d45d823ad8b25dc73ea3f5b50db9cac4effb81047e37aa4331cb33d1feefda8",
+      "files": [
+        "soldoros\\Soldoros.dll",
+        "soldoros\\Soldoros.json",
+        "soldoros\\Soldoros.pck"
+      ],
+      "folder_name": "soldoros",
+      "mod_id": "Soldoros",
+      "enabled": true,
+      "bundle_url": "https://github.com/geckogames10/sts2mm-profiles/releases/download/bundles/The_First_Blade_Master_Soldoros_v1.2.4_c180230b.zip",
+      "bundle_sha256": "c180230ba3c29854ecd2dd8805c415de10a135638b2bedac1eab57d0c3173ae0"
+    },
+    {
+      "name": "The Index Nursefather Yi Sang",
+      "version": "v1.1.1",
+      "source": null,
+      "hash": "d17dcef05a894061943695b51a086ac55c73e2106a1aa4ae71cd0bf20cbf54a7",
+      "files": [
+        "RienSang\\RienSang.dll",
+        "RienSang\\RienSang.json",
+        "RienSang\\RienSang.pck"
+      ],
+      "folder_name": "RienSang",
+      "mod_id": "RienSang",
+      "enabled": true,
+      "bundle_url": "https://github.com/geckogames10/sts2mm-profiles/releases/download/bundles/The_Index_Nursefather_Yi_Sang_v1.1.1_374f1c09.zip",
+      "bundle_sha256": "374f1c094d48ed3381af0ead45c07db08f56ff4b06e45d62b75c47e65d8dfc7f"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePath\\UnifiedSavePath.dll",
+        "UnifiedSavePath\\UnifiedSavePath.json",
+        "UnifiedSavePath\\UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePath",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://github.com/geckogames10/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_70914bc2.zip",
+      "bundle_sha256": "70914bc2e244ae6d8d98d8a066dc773bad39e918477a592309082332e3eae9a7"
+    },
+    {
+      "name": "乌啾",
+      "version": "v0.4.0",
+      "source": null,
+      "hash": "805f701e8f49f34846bd8ba19842b0a9f229fa26e84d6dd4da62d0c5564b1035",
+      "files": [
+        "WuJiu\\wujiu.dll",
+        "WuJiu\\wujiu.json",
+        "WuJiu\\wujiu.pck",
+        "WuJiu\\wujiu.pdb"
+      ],
+      "folder_name": "WuJiu",
+      "mod_id": "wujiu",
+      "enabled": true,
+      "bundle_url": "https://github.com/geckogames10/sts2mm-profiles/releases/download/bundles/_v0.4.0_3d28486b.zip",
+      "bundle_sha256": "3d28486baf99ee19e78a6e655263861cd24023802216e9d1e3125c7d211da1c7"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/geckogames10/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_e9ade1bd.zip",
+      "bundle_sha256": "e9ade1bd4f076b4fd1ce580980f91d0adc1740e45c9ad03e6e8c1c444a872c9c"
+    }
+  ],
+  "created_at": "2026-05-25T05:33:25.871948700Z",
+  "updated_at": "2026-05-25T07:36:19.305320Z",
+  "public": false
+}
